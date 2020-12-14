@@ -94,7 +94,7 @@ img{
     font-size:25px;
     color:sienna;
 }
-a:hover {
+a:hover a:active{
     text-decoration: underline;
 }
 #footer{
