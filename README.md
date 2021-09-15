@@ -6,4 +6,4 @@ AUTHOR This Initial portfolio is created by Antara Gupta.
 
 Source:https://github.com/Antara25-10/Initial-Portfolio
 
-Deployed Link:https://antara25-10.github.io/Image-Gallery/
+Deployed Link:https://antara25-10.github.io/Initial-Portfolio/
